@@ -37,8 +37,6 @@
 ![image](https://user-images.githubusercontent.com/62270427/122680505-70ed6e80-d22a-11eb-83ef-f29d451ef317.png)  ![image](https://user-images.githubusercontent.com/62270427/122680513-764ab900-d22a-11eb-968d-253b67f1636e.png)
 
 
-# 6. 시연 영상
-
 
 
 
