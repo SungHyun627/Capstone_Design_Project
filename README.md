@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/62270427/122679615-88c2f380-d226-11eb-9143-fba98484607a.png)  ![image](https://user-images.githubusercontent.com/62270427/122679616-8a8cb700-d226-11eb-8631-41723eaf0ad8.png)  ![image](https://user-images.githubusercontent.com/62270427/122679623-8cef1100-d226-11eb-8b65-602ea53af854.png)
 
 % 사용된 하드웨어 장비
-![image](https://user-images.githubusercontent.com/62270427/122679682-cd4e8f00-d226-11eb-8270-c8cb3876acee.png)
+![image](https://user-images.githubusercontent.com/62270427/122680061-7e095e00-d228-11eb-97d9-63f330c252fe.png)
 
 % Pi Reader
 
