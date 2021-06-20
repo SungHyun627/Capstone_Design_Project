@@ -25,8 +25,10 @@
 ![image](https://user-images.githubusercontent.com/62270427/122679826-58c82000-d227-11eb-96b8-f36d570a51a6.png)  ![image](https://user-images.githubusercontent.com/62270427/122679834-5fef2e00-d227-11eb-9d98-aa6d152cab46.png)
 
 
-- 소프트웨어 아키텍처
--
+# 3. 소프트웨어 아키텍처
+
+![image](https://user-images.githubusercontent.com/62270427/122679985-1b17c700-d228-11eb-9f8c-6e2fff2160cd.png)
+
 
 
 
