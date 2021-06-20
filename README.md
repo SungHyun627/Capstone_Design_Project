@@ -27,6 +27,10 @@
 
 # 3. 소프트웨어 아키텍처
 
+![image](https://user-images.githubusercontent.com/62270427/122680151-d04a7f00-d228-11eb-9066-3872fcf761a4.png)
+
+- Google API : Google STT(오디오 파일을 텍스트로 바꾸는데 변환), Google TTS(사진을 통해 읽은 텍스트를 오디오로 변환), Google Vision API(OCR, image로부터 text를 추출)
+
 ![image](https://user-images.githubusercontent.com/62270427/122679985-1b17c700-d228-11eb-9f8c-6e2fff2160cd.png)
 
 
