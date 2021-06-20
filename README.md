@@ -12,11 +12,10 @@
 
 2. 전체적인 아키텍처
 - 하드웨어 아키텍처
-
+* 라즈베리파이 케이스 3D 모델링(Front, Bottom, Top)
 ![image](https://user-images.githubusercontent.com/62270427/122679479-04707080-d226-11eb-8ac9-27deeaa64e1b.png)
-Front
-![image](https://user-images.githubusercontent.com/62270427/122679488-0b977e80-d226-11eb-8fc2-f3c9fce1b7cb.png) Bottom
-![image](https://user-images.githubusercontent.com/62270427/122679496-118d5f80-d226-11eb-9a99-0dda5770f143.png) Top
+![image](https://user-images.githubusercontent.com/62270427/122679488-0b977e80-d226-11eb-8fc2-f3c9fce1b7cb.png)
+![image](https://user-images.githubusercontent.com/62270427/122679496-118d5f80-d226-11eb-9a99-0dda5770f143.png)
 
 
 
