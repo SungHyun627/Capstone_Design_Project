@@ -33,7 +33,12 @@
 - Firebase (Cloud Firestore) : user가 원하는 부분의 페이지를 카테고리별로 저장
 - Dialogflow : user의 command(request)를 받아 intent matching을 통하여 적절한 response를 반환
 
+# 4. 전체 아키텍처
+
 ![image](https://user-images.githubusercontent.com/62270427/122679985-1b17c700-d228-11eb-9f8c-6e2fff2160cd.png)
+
+# 5. 시연 영상
+
 
 
 
