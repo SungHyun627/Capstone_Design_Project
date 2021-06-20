@@ -11,8 +11,7 @@
 이를 해결하기 위해, 라즈베리파이를 이용한 대화형 텍스트 reader 기기를 고안
 
 
-# 2. 아키텍처
-- 하드웨어 아키텍처
+# 2. 하드웨어 아키텍처
 
 % 라즈베리파이 케이스 3D 모델링(Front, Bottom, Top)
 
@@ -22,6 +21,7 @@
 ![image](https://user-images.githubusercontent.com/62270427/122679682-cd4e8f00-d226-11eb-8270-c8cb3876acee.png)
 
 % Pi Reader
+
 ![image](https://user-images.githubusercontent.com/62270427/122679826-58c82000-d227-11eb-96b8-f36d570a51a6.png)  ![image](https://user-images.githubusercontent.com/62270427/122679834-5fef2e00-d227-11eb-9d98-aa6d152cab46.png)
 
 
