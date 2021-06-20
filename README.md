@@ -22,7 +22,7 @@
 
 % Pi Reader
 
-![image](https://user-images.githubusercontent.com/62270427/122679826-58c82000-d227-11eb-96b8-f36d570a51a6.png)  ![image](https://user-images.githubusercontent.com/62270427/122679834-5fef2e00-d227-11eb-9d98-aa6d152cab46.png)
+![image](https://user-images.githubusercontent.com/62270427/122680301-667ea500-d229-11eb-836f-8f03bf3a76a7.png)  ![image](https://user-images.githubusercontent.com/62270427/122680304-6aaac280-d229-11eb-8d15-92155bc4195c.png)
 
 
 # 3. 소프트웨어 아키텍처
@@ -30,6 +30,8 @@
 ![image](https://user-images.githubusercontent.com/62270427/122680151-d04a7f00-d228-11eb-9066-3872fcf761a4.png)
 
 - Google API : Google STT(오디오 파일을 텍스트로 바꾸는데 변환), Google TTS(사진을 통해 읽은 텍스트를 오디오로 변환), Google Vision API(OCR, image로부터 text를 추출)
+- Firebase (Cloud Firestore) : user가 원하는 부분의 페이지를 카테고리별로 저장
+- Dialogflow : user의 command(request)를 받아 intent matching을 통하여 적절한 response를 반환
 
 ![image](https://user-images.githubusercontent.com/62270427/122679985-1b17c700-d228-11eb-9f8c-6e2fff2160cd.png)
 
