@@ -225,7 +225,7 @@ class Main():
                 self.player_read.volumeDown()
             elif bnum == 23:
                 self.player_read.playPause()
-        # Run app function
+        ## Run app function
         # answer_text = self.response[response_number](words)
         # self.speaker.speak(answer_text)
 
