@@ -67,6 +67,7 @@ class Player:
     # def next(self):
     #     self.musicNum = (self.musicNum + 1) % len(self.musicFiles)
     #     self.play()
+    # 
 
     def next_5s(self,change=5000):
         self.location = self.location + mixer.music.get_pos()
