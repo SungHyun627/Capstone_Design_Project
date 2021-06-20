@@ -43,6 +43,7 @@ class DIALOGFLOW():
         return response.query_result.fulfillment_text
 
 # def detect_intent_audio(project_id, session_id, audio_file_path, language_code):
+#
 #     """Returns the result of detect intent with an audio file as input.
 #
 #     Using the same `session_id` between requests allows continuation
