@@ -27,7 +27,7 @@ class Recorder:
         print("recording")
         frames = []
 
-        # loop through stream and append audio chunks to frame array
+        ## loop through stream and append audio chunks to frame array
         for ii in range(0, int((self.samp_rate / self.chunk) * self.record_secs)):
             data = stream.read(self.chunk)
             frames.append(data)
