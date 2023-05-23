@@ -13,12 +13,15 @@
 
 # 2. 하드웨어 아키텍처
 
-% 라즈베리파이 케이스 3D 모델링(Front, Bottom, Top)
-
-![image](https://user-images.githubusercontent.com/62270427/122679615-88c2f380-d226-11eb-9143-fba98484607a.png)  ![image](https://user-images.githubusercontent.com/62270427/122679616-8a8cb700-d226-11eb-8631-41723eaf0ad8.png)  ![image](https://user-images.githubusercontent.com/62270427/122679623-8cef1100-d226-11eb-8b65-602ea53af854.png)
-
-% 사용된 하드웨어 장비
+### 사용된 하드웨어 장비
 ![image](https://user-images.githubusercontent.com/62270427/122680061-7e095e00-d228-11eb-97d9-63f330c252fe.png)
+
+### 케이스 3D 모델링(Front, Bottom, Top)
+
+![image](https://user-images.githubusercontent.com/62270427/122679615-88c2f380-d226-11eb-9143-fba98484607a.png)   ![image](https://user-images.githubusercontent.com/62270427/122679616-8a8cb700-d226-11eb-8631-41723eaf0ad8.png)   ![image](https://user-images.githubusercontent.com/62270427/122679623-8cef1100-d226-11eb-8b65-602ea53af854.png)
+
+### 완성본
+![5](https://github.com/SungHyun627/Capstone_Design_Project/assets/62270427/60caef7c-1dce-4e18-b560-813afaa78e17)       ![7](https://github.com/SungHyun627/Capstone_Design_Project/assets/62270427/a8bc1e89-92cb-4399-962b-2c2c35a11473)
 
 # 3. 소프트웨어 아키텍처
 
@@ -29,14 +32,7 @@
 - Dialogflow : user의 command(request)를 받아 intent matching을 통하여 적절한 response를 반환
 - 그 밖에 사용한 API : 사전 API, 날씨 API
 
+
 # 4. 전체 아키텍처
 
 ![image](https://user-images.githubusercontent.com/62270427/122679985-1b17c700-d228-11eb-9f8c-6e2fff2160cd.png)
-
-# 5. PI Reader
-![image](https://user-images.githubusercontent.com/62270427/122680505-70ed6e80-d22a-11eb-83ef-f29d451ef317.png)  ![image](https://user-images.githubusercontent.com/62270427/122680513-764ab900-d22a-11eb-968d-253b67f1636e.png)
-
-
-
-
-
